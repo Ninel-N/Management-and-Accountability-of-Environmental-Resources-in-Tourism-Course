@@ -2,6 +2,7 @@
 # Management and Accountability of Environmental Resources in Tourism
 
 ## Course Description
+Нинел Нешева-Кьосева, Автор. Всички права запазени.
 
 This repository contains educational materials for the course "Management and Accountability of Environmental Resources in Tourism." The course covers fundamental principles and practices for sustainable management of environmental resources in the tourism sector, focusing on accountability and reporting methods.
 
