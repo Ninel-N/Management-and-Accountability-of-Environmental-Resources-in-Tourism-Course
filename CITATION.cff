@@ -1,0 +1,13 @@
+CITATION.cff
+cff-version: 1.2.0
+message: "Ако използвате този курс, моля, цитирайте го по следния начин:"
+title: "Management and Accountability of Environmental Resources in Tourism - Course"
+authors:
+  - family-names: Nesheva-Kiosseva
+    given-names: Ninel
+    orcid: https://orcid.org/0000-0001-7163-0200
+date-released: 2025-05-30
+version: "0.1"
+doi: 10.5281/zenodo.XXXXXXXXX  # <- Замени с реалния DOI, когато го получиш
+license: CC-BY-NC-4.0
+url: https://github.com/Ninel-N/Management-and-Accountability-of-Environmental-Resources-in-Tourism-Course
