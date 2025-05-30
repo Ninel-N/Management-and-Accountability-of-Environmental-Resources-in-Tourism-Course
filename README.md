@@ -23,5 +23,9 @@ This repository contains educational materials for the course "Management and Ac
 ## License
 
 This course is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the materials provided proper attribution is given.
+For more information, please contact:  
+Prof. Ninel Nesheva-Kiosseva, PhD  
+Expert in Sustainability Reporting and Environmental Accountability  
+Email: ninelkioseva@yahoo.com
 
 
