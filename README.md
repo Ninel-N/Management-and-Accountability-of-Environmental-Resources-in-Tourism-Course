@@ -23,9 +23,4 @@ This repository contains educational materials for the course "Management and Ac
 
 This course is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the materials provided proper attribution is given.
 
-## Contact
 
-For more information, please contact:  
-Assoc. Prof. Milena Karailieva, PhD  
-Department of Tourism Business  
-Email: [insert email address]
