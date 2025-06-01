@@ -1,5 +1,5 @@
 # Management-and-Accountability-of-Environmental-Resources-in-Tourism-Course
-# Management and Accountability of Environmental Resources in Tourism
+DOI 10.5281/zenodo.15570952
 
 ## Course Description
 Нинел Нешева-Кьосева, Автор. Всички права запазени.
